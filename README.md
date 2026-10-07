@@ -1,6 +1,5 @@
 # Grounded KB Builder
 
-> **Working name — provisional, pending brand/trademark clearance.**
 
 Turn your organization's scattered rules into one **citation-grounded** knowledge base: every
 statement traces to a named source, conflicts resolve by a trust hierarchy, and nothing ungrounded
